@@ -150,13 +150,15 @@ gh auth login
 gh repo clone codersforcauses/practical_software_engineering_practices
 ```
 
-2. Create a new branch for your group by running (please create branch with your name:
+2. Pick an issue on the [Issues page](https://github.com/codersforcauses/practical_software_engineering_practices/issues) and assign yourself to it.
+
+3. Create a new branch for your group by running (please create branch with your name:
 
 ```
 git branch <name of branch>
 ```
 
-3. To view all branches available (not on github), Run:
+4. To view all branches available (not on github), Run:
 
 ```
 git branch
@@ -164,13 +166,13 @@ git branch
 
 Now that we have created our branch, it is time we checkout(switch to) that branch so we can edit code!
 
-4. to change to the branch created, Run:
+5. To change to the branch created, Run:
 
 ```
 git checkout <name of your branch>
 ```
 
-5. Let push your newly created branch to github by running:
+6. Let push your newly created branch to github by running:
 
 (name of remote will be origin for today)
 
@@ -226,7 +228,7 @@ git push origin <name of branch>
 
 ## Adding changes to the main code base
 
-Now that you are satisfied with changes on your branch, we need to merge these changes with our main branch so that your changes can be added into the codebase. Head over to the pull request section to create a new pull request.
+Now that you are satisfied with changes on your branch, we need to merge these changes with our main branch so that your changes can be added into the codebase. Head over to the [pull request section](https://github.com/codersforcauses/practical_software_engineering_practices/pulls) to create a new pull request.
 
 There is no command for creating a pull request as a pull request is something that a cloud provider like GitHub, GitLab or BitBucket provide. It is not part of Git itself.
 
