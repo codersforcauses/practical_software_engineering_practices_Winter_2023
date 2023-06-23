@@ -152,7 +152,7 @@ gh repo clone codersforcauses/practical_software_engineering_practices
 
 2. Pick an issue on the [Issues page](https://github.com/codersforcauses/practical_software_engineering_practices/issues) and assign yourself to it.
 
-3. Create a new branch for your group by running (please create branch with your name:
+3. Create a new branch by running (please create branch with your name:
 
 ```
 git branch <name of branch>
