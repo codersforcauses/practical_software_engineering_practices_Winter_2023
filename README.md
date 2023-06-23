@@ -228,7 +228,7 @@ git push origin <name of branch>
 
 ## Adding changes to the main code base
 
-Now that you are satisfied with changes on your branch, we need to merge these changes with our main branch so that your changes can be added into the codebase. Head over to the [pull request section](https://github.com/codersforcauses/practical_software_engineering_practices/pulls) to create a new pull request. In the description, add `Resolve #<issue number>` to link your pull request to the issue you have been working on. The pull request may close the linked issue once it has been successfully merged.
+Now that you are satisfied with changes on your branch, we need to merge these changes with our main branch so that your changes can be added into the codebase. Head over to the [pull request section](https://github.com/codersforcauses/practical_software_engineering_practices/pulls) to create a new pull request. In the description, add `Resolve #<issue number>` to link your pull request to the issue you have been working on. The pull request may close the linked issue once it has been successfully merged. Be sure to delete your branch after your pull request has been merged.
 
 There is no command for creating a pull request as a pull request is something that a cloud provider like GitHub, GitLab or BitBucket provide. It is not part of Git itself.
 
