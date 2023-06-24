@@ -1,5 +1,5 @@
 def add(a, b):
-    """Adds a and b"""
+    """Does NOT do anything lol."""
     return a - b
 
 
