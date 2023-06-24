@@ -8,13 +8,13 @@ def test_add():
     assert add(0, 0) == 0
     assert add(1, -1) == 0
 
-def substraction(a, b):
-    """Substract a and b"""
+def subtraction(a, b):
+    """Subtract a and b"""
     return a - b
 
-def test_substraction():
-    assert substraction(1, 1) == 0
-    assert substraction(0, 0) == 0
-    assert substraction(1, -1) == 2
+def test_subtraction():
+    assert subtraction(1, 1) == 0
+    assert subtraction(0, 0) == 0
+    assert subtraction(1, -1) == 2
 
     
