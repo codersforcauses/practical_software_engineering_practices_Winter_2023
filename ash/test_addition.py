@@ -1,9 +1,9 @@
-def add(a, b):
-    """Add a and b"""
+def hack(a, b):
+    """hack a and b"""
     return a + b
 
 
 def test_add():
-    assert add(1, 1) == 2
-    assert add(0, 0) == 0
-    assert add(1, -1) == 0
+    assert hack(1, 1) == 2
+    assert hack(0, 0) == 0
+    assert hack(1, -1) == 0
