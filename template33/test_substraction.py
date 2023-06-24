@@ -1,6 +1,6 @@
 def add(a, b):
     """Add a and b"""
-    pass
+    return a + b
 
 
 def test_add():
