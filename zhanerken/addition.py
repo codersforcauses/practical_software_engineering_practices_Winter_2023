@@ -1,2 +1,3 @@
 def addition(a,b):
-    return a+b
+    m=a*b
+    return m
